@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;This+is+Tharn....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)
 
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=tharnphon&color=brightgreen)
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
