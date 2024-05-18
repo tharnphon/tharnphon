@@ -8,6 +8,5 @@
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Be healthy!
-- ⚡ Fun fact: I cannot fix computers.🤣
 
 ---
